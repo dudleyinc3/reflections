@@ -1,0 +1,5 @@
+lesson_2_reflections.txt
+
+Question: What happens when you initialize a repository? Why do you need to do it?
+
+Answer:  It takes you to branch, asks for files, and commits.  I guess you need it to add commits to file and store them in a mutual space?

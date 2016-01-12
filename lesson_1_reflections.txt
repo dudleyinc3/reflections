@@ -1,0 +1,28 @@
+Question 1: "How did viewing a "diff" between two versions of a file help you to see the bug that was introduced?"
+
+Answer:  The "Diff" command compares 2 versions of code for you and points out where they differ.  You can scroll down and cross check the "marked" or "incongruent" pieces of code very easily this way.
+
+Question 2:  How could having easy acess to the entire history of a file make you a more efficient programmer long term?  
+
+Answer;  You can actully go back to earlier versions if things go awray.  It also acts as an experience log that you can continue to reference and see how you made things happen or even steal chunks of code for like projects.
+
+Question 3:  What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Answer:  Auto-saving code is different than other thinks, i.e. audio or text file.  Code has many details and if saved at improper times, could get confusing.  However, those not in the habit of saving regularly could definitely lose a lot of hard work if left entirely up to them.
+
+Question:  Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Answer:  I have no idea!  Makes sense to keep them in one place together.  Maybe you only need one of the folders from a repository and you don't know which one it's in, so you have to look harder?
+
+question: How can you use the commands git log and git diff to view the history of files?
+
+Answer:  The git log allows you to see all of your work from the very start.  git diff allows you to view all your changes along the way to completion.
+
+question: How might using version control make you more confident to make changes that could break something?
+
+Answer:  Knowing you can go back to a previous version and find just where the bug is, is key.  You can just repair that section and not have to redo all your code.
+
+Question:  Now that you have your workspace set up, what do you want to try using Git for? 
+
+Answer:  I'd like to code something in Sublime and see how I access and control/utilize git, via the terminal.
+
